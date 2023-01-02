@@ -1,18 +1,10 @@
 # PaycheckHelper
 
 ## Table of Contents
-1. [PaycheckHelp](#paycheckhelp)
-2. [Goal](#goal)
-3. [Functionality Screenshots](#functionality-screenshots)
-4. [Technologies Used](#technologies-used)
-5. [Developer Information](#developer-information)
-
-## PaycheckHelp
-
-## Goal
-
-Write an application with C#/.NET which will allow my wife and other Flight Attendants
-easily calculate and log their complicated paychecks each month.                                                      
+1. [Functionality Screenshots](#functionality-screenshots)
+2. [Application Description] (#application-description)
+3. [Technologies Used](#technologies-used)
+4. [Developer Information](#developer-information) 
 
 ## Functionality Screenshots
 
@@ -28,9 +20,26 @@ XML Serialization to .txt file/Deserialization to MesageBox  |
 :-------------------------:|
 <img src="images/pch5.PNG" width="50%"> 
 
+[Back to Table of Contents](#table-of-contents)
+
+<hr>
+
+### Application Description
+
+This is a small, but growing personal project software application. Paycheck Helper was designed to help Flight Attendants calculate their notoriously complicated paychecks each month. The application provides fields for user input based on pay period data and run calculations to determine an estimated paycheck amount. Each paycheck amount is logged in a .txt file on the user's machine via XML Serialization to assist with tracking accuracy, budgeting needs, etc. The paycheck amount is then deserialized and displayed to the user. The application also allows for stored user settings which can be changed by the user based on pay increases, tax changes, etc. All field data is checked and exceptions are handled. Planned future features for this application include an interface for reading previously logged paychecks, GUI improvements, and perhaps database connectivity. 
+
+[Back to Table of Contents](#table-of-contents)
+
+<hr>
+
 ## Technologies Used
 - C#/.NET
 - Visual Studio Community IDE
+- XML
+
+[Back to Table of Contents](#table-of-contents)
+
+<hr>
 
 ## Developer Information
 Programmed by Andrew B. Schaefer [(Ab0213ab)](https://github.com/Ab0213ab).
