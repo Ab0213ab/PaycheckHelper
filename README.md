@@ -32,8 +32,8 @@ provides fields for user input based on pay period data and runs calculations to
 paycheck amount. Each paycheck amount is Serialized and logged in a .txt file on the user's machine 
 to assist with tracking accuracy, budgeting needs, etc. The paycheck amount is then Deserialized and displayed 
 to the user. The application also allows for stored user settings which can be changed by the user based on pay 
-increases, tax changes, etc. All field data is checked and exceptions are handled. Planned future features for 
-this application include an interface for reading previously logged paychecks, GUI improvements, and perhaps 
+increases, tax changes, etc. All field data is checked and exceptions are handled. Potential future features for 
+this application include an interface for reading previously logged paychecks, GUI improvements, and 
 database connectivity. 
 
 [Back to Table of Contents](#table-of-contents)
