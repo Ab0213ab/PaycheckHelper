@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Functionality Screenshots](#functionality-screenshots)
-2. [Application Description] (#application-description)
+2. [Application Description](#application-description)
 3. [Technologies Used](#technologies-used)
 4. [Developer Information](#developer-information) 
 
