@@ -1,28 +1,20 @@
 # PaycheckHelper
 
 ## Table of Contents
-(This repository is still under construction. Some programs listed
-may not be in the table of contents yet)
 1. [PaycheckHelp](#paycheckhelp)
-2. [JavaFXPaycheckCalculator](#JavaFXPaycheckCalculator)
-3. [JavaFXGUI](#JavaFXGUI)
-4. [BubbleSort](#bubblesort)
-5. [MultiThreading](#multithreading)
-6. [ArrayListDupRemove](#arraylistdupremove)
-7. [LambdaExpressions](#lambdaexpressions)
-8. [IteratorVsGetMethod](#iteratorvsgetmethod)
-9. [PrintToFileIO](#printtofileio)
-10. [RockPaperScissors](#rockpaperscissors)
-11. [Developer Information](#developer-information)
+2. [Goal](#goal)
+3. [Functionality Screenshots](#functionality-screenshots)
+4. [Technologies Used](#technologies-used)
+5. [Developer Information](#developer-information)
 
 ## PaycheckHelp
 
-**Goal**
+## Goal
 
-Write a simple program with C#/.NET which will allow my wife
-to easily calculate her paycheck each month.                                                      
+Write an application with C#/.NET which will allow my wife and other Flight Attendants
+easily calculate and log their complicated paychecks each month.                                                      
 
-**Output**
+## Functionality Screenshots
 
 Calculation                 |  Exception Handling             
 :-------------------------:|:-------------------------:
@@ -32,13 +24,20 @@ Stored User Settings       |  ...
 :-------------------------:|:-------------------------:
 ![ScreenShot](/images/pch3.PNG)  |  ![ScreenShot](/images/pch4.PNG)
 
-XML Serialization/Deserialization       |             
+XML Serialization to .txt file/Deserialization to MesageBox  |             
 :-------------------------:|
 <img src="images/pch5.PNG" width="50%"> 
 
-**Technologies Used**
+## Technologies Used
 - C#/.NET
 - Visual Studio Community IDE
+
+## Developer Information
+Programmed by Andrew B. Schaefer [(Ab0213ab)](https://github.com/Ab0213ab).
+
+LinkedIn: https://www.linkedin.com/in/andrewbschaefer/
+
+Email: Abs233abs@gmail.com 
 
 [Back to Table of Contents](#table-of-contents)
 
