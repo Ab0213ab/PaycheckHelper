@@ -28,9 +28,9 @@ XML Serialization/Deserialization  |
 
 This is a small, but growing personal project software application. Paycheck Helper was designed to 
 help Flight Attendants calculate their notoriously complicated paychecks each month. The application 
-provides fields for user input based on pay period data and run calculations to determine an estimated 
+provides fields for user input based on pay period data and runs calculations to determine an estimated 
 paycheck amount. Each paycheck amount is Serialized and logged in a .txt file on the user's machine 
-to assist with tracking accuracy, budgeting needs, etc. The paycheck amount is then deserialized and displayed 
+to assist with tracking accuracy, budgeting needs, etc. The paycheck amount is then Deserialized and displayed 
 to the user. The application also allows for stored user settings which can be changed by the user based on pay 
 increases, tax changes, etc. All field data is checked and exceptions are handled. Planned future features for 
 this application include an interface for reading previously logged paychecks, GUI improvements, and perhaps 
