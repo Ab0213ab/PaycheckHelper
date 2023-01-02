@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PayPeriod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TotalHours>120</TotalHours>
+  <DomesticPerDiemHours>0</DomesticPerDiemHours>
+  <InternationalPerDiemHours>0</InternationalPerDiemHours>
+  <Paychecktotal>2484.8999999999996</Paychecktotal>
+</PayPeriod>
